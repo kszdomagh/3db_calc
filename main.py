@@ -48,4 +48,4 @@ plt.legend()
 plt.show()
 
 #save as png in current folder
-plt.savefig("graph.png")
+plt.savefig("AIOFHJAUY.png")
